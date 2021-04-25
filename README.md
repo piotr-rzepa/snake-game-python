@@ -25,13 +25,13 @@ The game opens after settings options (or leaveing them empty) and clicking x in
 <img src="./images/menu.png" alt="ERR IMG NOT FOUND">
 
 Without any options -> "raw" gameplay &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;With Grid setting on<br/>
-<img src="./images/withoutOptions.png" width="500" height="500" alt="ERR IMG NOT FOUND"> <img src="./images/withGridOn.png" width="500" height="500" alt="ERR IMG NOT FOUND">
+<img src="./images/withoutOptions.png" width="400" height="400" alt="ERR IMG NOT FOUND"> <img src="./images/withGridOn.png" width="400" height="400" alt="ERR IMG NOT FOUND">
 
 With speed up bonus - each blue square increase pace of the game &nbsp; &nbsp; &nbsp; &nbsp; With static obstacles and range set to 10<br/>
-<img src="./images/withSpeedUp.png" width="500" height="500" alt="ERR IMG NOT FOUND">&nbsp;<img src="./images/withStaticObstacles.png" width="500" height="500" alt="ERR IMG NOT FOUND">
+<img src="./images/withSpeedUp.png" width="400" height="400" alt="ERR IMG NOT FOUND">&nbsp;<img src="./images/withStaticObstacles.png" width="400" height="400" alt="ERR IMG NOT FOUND">
 
 With dynamic obstacles enabled - enemy snake grows as you eat more apples!<br/>
-<img src="./images/withDynamicObstacles.png" width="500" height="500" alt="ERR IMG NOT FOUND">
+<img src="./images/withDynamicObstacles.png" width="400" height="400" alt="ERR IMG NOT FOUND">
 
 
 ## Setup 
